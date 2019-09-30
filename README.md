@@ -36,9 +36,9 @@
 大中台+微服务+微前端
 
 <img 
-    src='./public/wildernessWorld.png' 
-    width='650px'
-    height='600px'
+    src='./public/w-world-dl.png' 
+    width='850px'
+    height='800px'
 />
 ## 贡献榜
 我们为参与到社区建设的所有贡献者们建立榜单。
